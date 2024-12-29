@@ -16,4 +16,4 @@
   - Relay Module
   - Switch
 # How it Works
-- When the tank is full, the LED will turn on. When the tank is empty, it will trigger an alarm, turn on the LED, and activate the water pump.
+- Text ENERGY1, 2, 3, or 4 thru SMS. Then you have electricity balance but it also automatically disconnect power supply if balance is zero. you can also text to see remain balance if electric meter still it will alert and text to you
